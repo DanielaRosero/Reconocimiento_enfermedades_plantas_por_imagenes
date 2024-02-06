@@ -1,5 +1,5 @@
 # Reconocimiento de enfermedades en plantas por imágenes
-------------------------------------------------------------------
+
  En este repositorio encontraremos un proyecto cuya finalidad es conseguir diagnosticar diversas enfermedades de platas por imágenes. La finalidad de este trabajo no otra que conseguir la automatización en el diagnóstico de enfermedades de plantas con la intención de conseguir un impacto positivo en el tanto en el sector agrícola como en el ámbito de la seguridad alimentaria
 
  ## El conjunto de datos
