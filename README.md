@@ -5,6 +5,8 @@
  ## El conjunto de datos
  Se trata de un conjunto de datos con mucha diversidad y detalle donde encontrabamos tanto imágenes de plantas sanas como imágenes de plantas con algún tipo de enfermedad. En las imágenes tenemos ejemplos de enfermedades propias de cultivos de patatas, tomates, maiz, manzanas, naranjas, entre muchos otros tipos de cultivos.
 
+ [Descargar datos](https://drive.google.com/file/d/16l2bNvJD3hOvEwEwa-_JdwLhuV_aquf3/view?usp=sharing)
+
  ## Modelo
  Se ha utilizado un modelo de red neuronal convolucional (CNN) para entrenar y clasificar las imágenes. Las CNN son especialmente buenas para analizar imágenes y han demostrado ser efectivas en tareas de clasificación de imágenes.
 
